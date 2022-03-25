@@ -1,0 +1,35 @@
+{
+  "name": "eos-treasure-hunter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@waxio/waxjs": "^1.0.4",
+    "axios": "^0.18.0",
+    "bootstrap-vue": "^2.0.0-rc.13",
+    "canvas": "^2.3.1",
+    "data-pixels": "^1.0.3",
+    "eosjs": "^16.0.9",
+    "scatterjs-core": "^2.7.14",
+    "scatterjs-plugin-eosjs": "^1.3.9",
+    "scatterjs-plugin-lynx": "^1.5.3",
+    "vue": "^2.6.7",
+    "vue-awesome": "^3.4.0",
+    "vue-axios": "^2.1.4",
+    "vue-cli": "^2.9.6",
+    "vue-router": "^3.0.2",
+    "vuex": "^3.1.0",
+    "webpack": "^4.29.5"
+  },
+  "devDependencies": {
+    "@babel/runtime": "^7.3.4",
+    "@vue/cli-plugin-babel": "^3.4.1",
+    "@vue/cli-service": "^3.4.1",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.0.1",
+    "vue-template-compiler": "^2.6.7"
+  }
+}
